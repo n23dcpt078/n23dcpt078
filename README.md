@@ -1,7 +1,7 @@
 
   <img src="banner.png" alt="Banner" height="50%">
-</p>
-# 👋 Hi, I'm Mai Hang
+
+### 👋 ABOUT ME:
 
 ### 🎓 Multimedia Technology Student at PTIT
 
