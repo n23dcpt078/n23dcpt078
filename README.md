@@ -10,8 +10,7 @@
 
 </div>
 
-### 👋 ABOUT ME:
-
+### ABOUT ME:
 ### 🎓 Multimedia Technology Student at PTIT
 
 I am a student specializing in **Multimedia Technology** at the **Posts and Telecommunications Institute of Technology (PTIT)**. I'm passionate about blending **technology** with **creativity** to produce engaging digital media and user experiences.
