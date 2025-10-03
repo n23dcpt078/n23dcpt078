@@ -1,4 +1,7 @@
-![GitHub Banner](banner.png) 
+
+<p align="center">
+  <img src="banner.png" alt="Banner" width="50%">
+</p>
 # 👋 Hi, I'm Mai Hang
 
 ### 🎓 Multimedia Technology Student at PTIT
