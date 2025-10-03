@@ -1,5 +1,14 @@
+<img src="banner.png" alt="Banner" height="50%">
 
-  <img src="banner.png" alt="Banner" height="50%">
+<div align="center">
+
+# Hi 👋 I'm **MAI HANG**
+
+---
+
+### **Multimedia Technology** Student at **PTIT** • Creative Designer 🎨 • Coder 💻 • UI/UX Enthusiast ✨
+
+</div>
 
 ### 👋 ABOUT ME:
 
