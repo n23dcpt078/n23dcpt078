@@ -1,3 +1,4 @@
+![GitHub Banner](bannerpro5.png) 
 # 👋 Hi, I'm Mai Hang
 
 ### 🎓 Multimedia Technology Student at PTIT
