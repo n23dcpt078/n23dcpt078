@@ -41,7 +41,7 @@ I'm currently focused on:
 ### 🌐 Connect with Me
 
 * **Email**: [n23dcpt078@student.ptithcm.edu.vn]
-* **Portfolio/Website**: [Portfolio Link (if any)]
+* **Portfolio/Website**: [Portfolio Link ]
 
 ---
 
