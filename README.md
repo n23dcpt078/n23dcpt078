@@ -36,4 +36,4 @@ I'm currently focused on:
 
 ### 🔥 My GitHub Activity
 
-[![n23dcpt078](https://github-readme-stats.vercel.app/api?username=[n23dcpt078]&show_icons=true&theme=dark)](https://github.com/[n23dcpt078])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n23dcpt078&show_icons=true&theme=dark)](https://github.com/n23dcpt078)
